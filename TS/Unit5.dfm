@@ -2,63 +2,28 @@ object Form5: TForm5
   Left = 0
   Top = 0
   Caption = #1060#1054#1056#1052#1040' '#1044#1051#1071' '#1058#1045#1057#1058#1048#1056#1054#1042#1040#1053#1048#1071
-  ClientHeight = 264
-  ClientWidth = 704
+  ClientHeight = 202
+  ClientWidth = 538
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
-  Font.Height = -14
+  Font.Height = -11
   Font.Name = 'Tahoma'
   Font.Style = []
   OldCreateOrder = False
-  PixelsPerInch = 120
-  TextHeight = 17
+  PixelsPerInch = 96
+  TextHeight = 13
   object Label1: TLabel
-    Left = 10
-    Top = 52
-    Width = 667
-    Height = 41
-    Margins.Left = 4
-    Margins.Top = 4
-    Margins.Right = 4
-    Margins.Bottom = 4
-    Caption = #1042#1067#1058#1040#1065#1048#1058#1045' '#1057#1070#1044#1040' '#1057#1042#1054#1049' '#1050#1054#1052#1055#1054#1053#1045#1053#1058
+    Left = 128
+    Top = 72
+    Width = 280
+    Height = 31
+    Caption = #1055#1054#1041#1045#1044#1040' '#1058#1054#1042#1040#1056#1048#1065#1048
     Font.Charset = RUSSIAN_CHARSET
     Font.Color = clRed
-    Font.Height = -35
+    Font.Height = -27
     Font.Name = 'Times New Roman'
     Font.Style = [fsBold, fsItalic]
     ParentFont = False
-  end
-  object Label2: TLabel
-    Left = 104
-    Top = 152
-    Width = 39
-    Height = 17
-    Caption = 'Label2'
-  end
-  object Button1: TButton
-    Left = 248
-    Top = 136
-    Width = 75
-    Height = 25
-    Caption = 'Button1'
-    TabOrder = 0
-  end
-  object ListBox1: TListBox
-    Left = 312
-    Top = 167
-    Width = 121
-    Height = 97
-    ItemHeight = 17
-    TabOrder = 1
-  end
-  object CheckBox1: TCheckBox
-    Left = 168
-    Top = 208
-    Width = 97
-    Height = 17
-    Caption = 'CheckBox1'
-    TabOrder = 2
   end
 end
